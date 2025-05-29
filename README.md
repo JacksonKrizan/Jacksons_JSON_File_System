@@ -9,11 +9,11 @@ The drawbacks or limitations of JSON are that it lacks type enforcement, support
 
 Some other alternatives may be
 
-1.SQLite Database
+1. SQLite Database
 Why use it: Structured queries, efficient, supports multiple tables.
 Best for: Mobile games, RPGs, user data, and complex inventories.
 
-2.XML
+2. XML
 Why use it: Supports comments, schemas, and complex structures.
 Best for: Structured data with validation or integration with older systems.
 
