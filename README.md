@@ -20,3 +20,5 @@ Best for: Structured data with validation or integration with older systems.
 3. MySQL
 Why use it: Powerful, scalable database with structured querying (SQL), ideal for managing large, relational datasets with high integrity.
 Best for: Online multiplayer games, leaderboards, user accounts, game analytics, and any system requiring secure, persistent, and complex data storage.
+
+Video Used: https://youtu.be/pVXEUtMy_Hc
